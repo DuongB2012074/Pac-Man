@@ -22,6 +22,7 @@ public class Game extends JFrame{
 
     private final Enemy[] enemies;
 
+
     public Game(){
         super("Pac-Man");
 
